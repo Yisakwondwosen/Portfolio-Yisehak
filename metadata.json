@@ -1,0 +1,7 @@
+{
+  "name": "Copy of The Yishak Gazette",
+  "description": "A sophisticated newspaper-style portfolio for Digital Architect Yishak Wendosen.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

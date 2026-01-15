@@ -1,0 +1,6 @@
+oxylabs-ai-studio
+flask
+flask-cors
+schedule
+python-dotenv
+requests
